@@ -1,0 +1,603 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjvvjgt3we8mnv15" x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/animal.planet.uk.png" tvg-id="animal.planet.uk" tvg-type="live",Animal Planet UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/animal.planet.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/discovery.family.channel.us.png" tvg-id="discovery.family.channel.us" tvg-type="live",Discovery Family US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/discovery.family.channel.us.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/discovery.history.uk.png" tvg-id="discovery.history.uk" tvg-type="live",Discovery History UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/discovery.history.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/discovery.science.uk.png" tvg-id="discovery.science.uk" tvg-type="live",Discovery Science UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/discovery.science.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/discovery.turbo.uk.png" tvg-id="discovery.turbo.uk" tvg-type="live",Discovery Turbo UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/discovery.turbo.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/discovery.uk.png" tvg-id="discovery.uk" tvg-type="live",Discovery UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/discovery.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/food.network.uk.png" tvg-id="food.network.uk" tvg-type="live",Food Network UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/food.network.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/history2.uk.png" tvg-id="history2.uk" tvg-type="live",H2 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/history2.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/investigation.discovery.usa.eastern.us.png" tvg-id="investigation.discovery.usa.eastern.us" tvg-type="live",Investigation Discovery US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/investigation.discovery.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/nat.geo.wild.uk.png" tvg-id="nat.geo.wild.uk" tvg-type="live",Nat Geo Wild UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nat.geo.wild.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/nat.geo.uk.png" tvg-id="nat.geo.uk" tvg-type="live",National Geographic UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nat.geo.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/national.geographic.wild.us.png" tvg-id="national.geographic.wild.us" tvg-type="live",National Geographic Wild
+https://starlite.best/api/stream/sps007/451296/livetv.epg/national.geographic.wild.us.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/science.us.png" tvg-id="science.us" tvg-type="live",Science US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/science.us.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/sky.documntrs.uk.png" tvg-id="sky.documntrs.uk" tvg-type="live",Sky Documentaries
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.documntrs.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/history.uk.png" tvg-id="history.uk" tvg-type="live",Sky History UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/history.uk.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.starlite.best/tv.land.eastern.us.png" tvg-id="tv.land.eastern.us" tvg-type="live",Tv Land US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tv.land.eastern.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/4music.uk.png" tvg-id="4music.uk" tvg-type="live",4Music
+https://starlite.best/api/stream/sps007/451296/livetv.epg/4music.uk.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/clubland.uk.png" tvg-id="clubland.uk" tvg-type="live",Clubland TV UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/clubland.uk.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/mtv.usa.eastern.us.png" tvg-id="mtv.usa.eastern.us" tvg-type="live",MTV (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mtv.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/mtv.2.east.us.png" tvg-id="mtv.2.east.us" tvg-type="live",MTV 2 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mtv.2.east.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/mtv.classic.east.us.png" tvg-id="mtv.classic.east.us" tvg-type="live",MTV Classic US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mtv.classic.east.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/music.choice.us.png" tvg-id="music.choice.us" tvg-type="live",Music Choice
+https://starlite.best/api/stream/sps007/451296/livetv.epg/music.choice.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/music.choice.adult.alternative.us.png" tvg-id="music.choice.adult.alternative.us" tvg-type="live",Music Choice Adult Alternative
+https://starlite.best/api/stream/sps007/451296/livetv.epg/music.choice.adult.alternative.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/music.choice.alternative.us.png" tvg-id="music.choice.alternative.us" tvg-type="live",Music Choice Alternative
+https://starlite.best/api/stream/sps007/451296/livetv.epg/music.choice.alternative.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/music.choice.edm.us.png" tvg-id="music.choice.edm.us" tvg-type="live",Music Choice Dance/EDM
+https://starlite.best/api/stream/sps007/451296/livetv.epg/music.choice.edm.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/now80.uk.png" tvg-id="now80.uk" tvg-type="live",Now 80s
+https://starlite.best/api/stream/sps007/451296/livetv.epg/now80.uk.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/stingray.classic.rock.us.png" tvg-id="stingray.classic.rock.us" tvg-type="live",Stingray Classic Rock
+https://starlite.best/api/stream/sps007/451296/livetv.epg/stingray.classic.rock.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/stingray.remember.the.80s.us.png" tvg-id="stingray.remember.the.80s.us" tvg-type="live",Stingray Remember The 80s
+https://starlite.best/api/stream/sps007/451296/livetv.epg/stingray.remember.the.80s.us.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/stingray.retro.ca.png" tvg-id="stingray.retro.ca" tvg-type="live",Stingray Retro
+https://starlite.best/api/stream/sps007/451296/livetv.epg/stingray.retro.ca.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/stingray.nostalgie.ca.png" tvg-id="stingray.nostalgie.ca" tvg-type="live",Stingray: Nostalgie
+https://starlite.best/api/stream/sps007/451296/livetv.epg/stingray.nostalgie.ca.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.starlite.best/vh1.eastern.us.png" tvg-id="vh1.eastern.us" tvg-type="live",VH1 (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/vh1.eastern.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/C4WBetH.png" tvg-id="atn.cricket.plus.ca" tvg-type="live",ATN Cricket
+https://starlite.best/api/stream/sps007/451296/livetv.epg/atn.cricket.plus.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/bein.sports.1.us.png" tvg-id="bein.sports.1.us" tvg-type="live",beIN Sports 1 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.1.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/bein.sports.4.us.png" tvg-id="bein.sports.4.us" tvg-type="live",beIN Sports 4 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.4.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/bein.sports.5.us.png" tvg-id="bein.sports.5.us" tvg-type="live",beIN Sports 5 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.5.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/bein.sports.6.us.png" tvg-id="bein.sports.6.us" tvg-type="live",beIN Sports 6 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.6.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/bein.sports.7.us.png" tvg-id="bein.sports.7.us" tvg-type="live",beIN Sports 7 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.7.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/bein.sports.8.us.png" tvg-id="bein.sports.8.us" tvg-type="live",beIN Sports 8 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.8.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/bein.sports.liga.us.png" tvg-id="bein.sports.liga.us" tvg-type="live",beIN Sports Liga US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.liga.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-id="bein.sports.xtra.us" tvg-type="live",Bein Sports Xtra
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bein.sports.xtra.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" tvg-id="big.ten.network.us" tvg-type="live",Big Ten Network US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/big.ten.network.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PSE66nu.png" tvg-id="blue.sport.1.ch" tvg-type="live",Blue Sport 1 CH
+https://starlite.best/api/stream/sps007/451296/livetv.epg/blue.sport.1.ch.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/GTbOgdT.png" tvg-id="blue.sport.2.ch" tvg-type="live",Blue Sport 2 CH
+https://starlite.best/api/stream/sps007/451296/livetv.epg/blue.sport.2.ch.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EOXnU15.png" tvg-id="canal.plus.sport.5.pl" tvg-type="live",Canal+ Sport 5
+https://starlite.best/api/stream/sps007/451296/livetv.epg/canal.plus.sport.5.pl.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/cbs.sports.network.usa.us.png" tvg-id="cbs.sports.network.usa.us" tvg-type="live",CBS Sports Network USA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/cbs.sports.network.usa.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.cerberus.tech/wp-content/uploads/2022/01/CTV-LOGO-CAPSULE-2015.png" tvg-id="celtic.uk" tvg-type="live",Celtic UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/celtic.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/eleven.sports.us.png" tvg-id="eleven.sports.us" tvg-type="live",Eleven Sports
+https://starlite.best/api/stream/sps007/451296/livetv.epg/eleven.sports.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/bWjGol4.png" tvg-id="eleven.sports.3.pl" tvg-type="live",Eleven Sports 3 PL
+https://starlite.best/api/stream/sps007/451296/livetv.epg/eleven.sports.3.pl.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/SEKXaAW.png" tvg-id="eleven.sports.4.pl" tvg-type="live",Eleven Sports 4 PL
+https://starlite.best/api/stream/sps007/451296/livetv.epg/eleven.sports.4.pl.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/espn2.us.png" tvg-id="espn2.us" tvg-type="live",ESPN 2 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn2.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/espn.us.png" tvg-id="espn.us" tvg-type="live",ESPN US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/espn.us.png" tvg-id="espn2.ze" tvg-type="live",ESPN2 ZE
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn2.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/eurosport.1.uk.png" tvg-id="eurosport.1.uk" tvg-type="live",Eurosport 1 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/eurosport.1.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/eurosport.2.uk.png" tvg-id="eurosport.2.uk" tvg-type="live",Eurosport 2 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/eurosport.2.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/fight.network.canada.ca.png" tvg-id="fight.network.canada.ca" tvg-type="live",Fight Network CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fight.network.canada.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/V8hb6tJ.png" tvg-id="nsw.sydney.fox.cricket.au" tvg-type="live",Fox Cricket AU
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.fox.cricket.au.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/960px-Fox_Footy_logo_%282015%29.svg.png" tvg-id="nsw.sydney.fox.footy.au" tvg-type="live",Fox Footy AU
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.fox.footy.au.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/960px-Fox_league.svg.png" tvg-id="nsw.sydney.fox.league.au" tvg-type="live",Fox LEAGUE AU
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.fox.league.au.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/fox.soccer.plus.us.png" tvg-id="fox.soccer.plus.us" tvg-type="live",FOX Soccer Plus
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fox.soccer.plus.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/fox.sports.1.us.png" tvg-id="fox.sports.1.us" tvg-type="live",Fox Sports 1
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fox.sports.1.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/fox.sports.2.us.png" tvg-id="fox.sports.2.us" tvg-type="live",Fox Sports 2
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fox.sports.2.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dVDZBlV.png" tvg-id="lfc.uk" tvg-type="live",LFC TV UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/lfc.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png" tvg-id="marquee.sports.network.us" tvg-type="live",Marquee Sports Network US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/marquee.sports.network.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/msg.2.us.png" tvg-id="msg.2.us" tvg-type="live",MSG 2 US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/msg.2.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/msg.plus.us.png" tvg-id="msg.plus.us" tvg-type="live",MSG Plus US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/msg.plus.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/SEQFh0P.png" tvg-id="msg.us" tvg-type="live",MSG US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/msg.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" tvg-id="mutv.uk" tvg-type="live",MUTV UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mutv.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/new.england.sports.network.plus.us.png" tvg-id="new.england.sports.network.plus.us" tvg-type="live",New England Sports Network Plus
+https://starlite.best/api/stream/sps007/451296/livetv.epg/new.england.sports.network.plus.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/new.england.sports.network.us.png" tvg-id="new.england.sports.network.us" tvg-type="live",New England Sports Network US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/new.england.sports.network.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/nfl.network.us.png" tvg-id="nfl.network.us" tvg-type="live",NFL Network US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nfl.network.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UNZ8bef.png" tvg-id="nhl.network.usa.us" tvg-type="live",NHL Network US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nhl.network.usa.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wuduAXD.png" tvg-id="one.soccer.ca" tvg-type="live",One Soccer
+https://starlite.best/api/stream/sps007/451296/livetv.epg/one.soccer.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/premier.1.uk.png" tvg-id="premier.1.uk" tvg-type="live",Premier 1 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/premier.1.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/premier.2.uk.png" tvg-id="premier.2.uk" tvg-type="live",Premier 2 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/premier.2.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ThJHEuN.png" tvg-id="sky.sport.1.nz" tvg-type="live",Sky Sport 1 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.1.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/cu8yB69.png" tvg-id="sky.sport.2.nz" tvg-type="live",Sky Sport 2 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.2.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XYp3Ua3.png" tvg-id="sky.sport.3.nz" tvg-type="live",Sky Sport 3 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.3.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/KUXs7SQ.png" tvg-id="sky.sport.4.nz" tvg-type="live",Sky Sport 4 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.4.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/xgpKcYh.png" tvg-id="sky.sport.5.nz" tvg-type="live",Sky Sport 5 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.5.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/nyjD1dU.png" tvg-id="sky.sport.6.nz" tvg-type="live",Sky Sport 6 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.6.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/iuTNWh4.png" tvg-id="sky.sport.7.nz" tvg-type="live",Sky Sport 7 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.7.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/8YjqlRv.png" tvg-id="sky.sport.8.nz" tvg-type="live",Sky Sport 8 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.8.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/9fLRHSg.png" tvg-id="sky.sport.9.nz" tvg-type="live",Sky Sport 9 NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.9.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/2dsSm5m.png" tvg-id="sky.sport.premier.league.nz" tvg-type="live",Sky Sport Premier League NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.premier.league.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6x2anTA.png" tvg-id="sky.sport.select.nz" tvg-type="live",Sky Sport Select NZ
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.sport.select.nz.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/960px-Sky_Sport_Action.svg.png" tvg-id="ououennp.ss" tvg-type="live",Sky Sports Action
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ououennp.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" tvg-id="mfghdzzfhs.ss" tvg-type="live",Sky Sports Arena
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mfghdzzfhs.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" tvg-id="hasitauf.ss" tvg-type="live",Sky Sports Cricket
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hasitauf.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" tvg-id="qkihgakk.ss" tvg-type="live",Sky Sports F1
+https://starlite.best/api/stream/sps007/451296/livetv.epg/qkihgakk.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" tvg-id="lvupvmnk.ss" tvg-type="live",Sky Sports Football
+https://starlite.best/api/stream/sps007/451296/livetv.epg/lvupvmnk.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" tvg-id="kszsuhwg.ss" tvg-type="live",Sky Sports Golf
+https://starlite.best/api/stream/sps007/451296/livetv.epg/kszsuhwg.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" tvg-id="eppvjpkd.ss" tvg-type="live",Sky Sports Main Event
+https://starlite.best/api/stream/sps007/451296/livetv.epg/eppvjpkd.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/erx02nr.png" tvg-id="szckleid.ss" tvg-type="live",Sky Sports Mix
+https://starlite.best/api/stream/sps007/451296/livetv.epg/szckleid.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" tvg-id="fdghodsfgh.ss" tvg-type="live",Sky Sports News
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fdghodsfgh.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" tvg-id="diiefbxx.ss" tvg-type="live",Sky Sports Premier League
+https://starlite.best/api/stream/sps007/451296/livetv.epg/diiefbxx.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png" tvg-id="oqsogftr.ss" tvg-type="live",Sky Sports Racing
+https://starlite.best/api/stream/sps007/451296/livetv.epg/oqsogftr.ss.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6SnLfX4.png" tvg-id="ss.action.ze" tvg-type="live",SuperSport Action
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.action.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/HNUwofZ.png" tvg-id="ss.football.ze" tvg-type="live",SuperSport Football
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.football.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/5VeJd2T.png" tvg-id="ss.golf.ze" tvg-type="live",SuperSport Golf
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.golf.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/d1UQXPt.png" tvg-id="ss.grandstand.ze" tvg-type="live",SuperSport Grandstand
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.grandstand.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qW4Ql2K.png" tvg-id="ss.la.liga.ze" tvg-type="live",SuperSport La Liga
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.la.liga.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Zr8DeUk.png" tvg-id="ss.mximo.1.ze" tvg-type="live",SuperSport MaXimo 1
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.mximo.1.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/QvIPyxE.png" tvg-id="ss.motorsport.ze" tvg-type="live",SuperSport Motorsport
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.motorsport.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RQfhJMi.png" tvg-id="ss.psl.ze" tvg-type="live",SuperSport PSL
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.psl.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wwBY5Gh.png" tvg-id="ss.rugby.ze" tvg-type="live",SuperSport Rugby
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.rugby.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/i9OI2m6.png" tvg-id="ss.tennis.ze" tvg-type="live",SuperSport Tennis
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.tennis.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XOpIxRO.png" tvg-id="ss.variety.2.ze" tvg-type="live",SuperSport Variety 2
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ss.variety.2.ze.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/the.tennis.channel.us.png" tvg-id="the.tennis.channel.us" tvg-type="live",Tennis Channel US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/the.tennis.channel.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-id="tnt.east.us" tvg-type="live",TNT (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-id="tnt.pacific.us" tvg-type="live",TNT (West) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tnt.pacific.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/E6pLvOV.png" tvg-id="bt.sport.2.uk" tvg-type="live",TNT Sport 2 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bt.sport.2.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LFSMbpN.png" tvg-id="bt.sport.3.uk" tvg-type="live",TNT Sport 3 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bt.sport.3.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-id="bt.sport.1.uk" tvg-type="live",TNT Sports 1 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bt.sport.1.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Am70nWY.png" tvg-id="bt.sport.4.uk" tvg-type="live",TNT Sports 4 UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bt.sport.4.uk.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/tsn1.ca.png" tvg-id="tsn1.ca" tvg-type="live",TSN 1 CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn1.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/tsn2.ca.png" tvg-id="tsn2.ca" tvg-type="live",TSN 2 CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn2.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/tsn3.ca.png" tvg-id="tsn3.ca" tvg-type="live",TSN 3 CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn3.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/tsn4.ca.png" tvg-id="tsn4.ca" tvg-type="live",TSN 4 CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn4.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/tsn5.ca.png" tvg-id="tsn5.ca" tvg-type="live",TSN 5 CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn5.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.starlite.best/willow.cricket.us.png" tvg-id="willow.cricket.us" tvg-type="live",Willow Cricket
+https://starlite.best/api/stream/sps007/451296/livetv.epg/willow.cricket.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0096.us.png" tvg-id="espn.0096.us" tvg-type="live",Baseball: New York vs. Boston
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0096.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0094.us.png" tvg-id="espn.0094.us" tvg-type="live",Football: NFL Countdown Special Edition Presented
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0094.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0029.us.png" tvg-id="espn.0029.us" tvg-type="live",Football: The Mina Kimes Show featuring Lenny
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0029.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0083.us.png" tvg-id="espn.0083.us" tvg-type="live",Little League Baseball: California vs. Iowa
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0083.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0095.us.png" tvg-id="espn.0095.us" tvg-type="live",NCAA Football: ACC Huddle Special: Syracuse Road Trip
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0095.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0038.us.png" tvg-id="espn.0038.us" tvg-type="live",NCAA Football: College Football Live
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0038.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/sportsnet.007.us.png" tvg-id="sportsnet.007.us" tvg-type="live",New York Yankees @ Baltimore
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sportsnet.007.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/paramount.015.us.png" tvg-id="paramount.015.us" tvg-type="live",Paramount | Torino vs. Carrarese
+https://starlite.best/api/stream/sps007/451296/livetv.epg/paramount.015.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/paramount.017.us.png" tvg-id="paramount.017.us" tvg-type="live",Paramount | UFC 330 em Português
+https://starlite.best/api/stream/sps007/451296/livetv.epg/paramount.017.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/paramount.018.us.png" tvg-id="paramount.018.us" tvg-type="live",Paramount | UFC 330 en Español
+https://starlite.best/api/stream/sps007/451296/livetv.epg/paramount.018.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/paramount.016.us.png" tvg-id="paramount.016.us" tvg-type="live",Paramount | UFC 330: English
+https://starlite.best/api/stream/sps007/451296/livetv.epg/paramount.016.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0001.us.png" tvg-id="espn.0001.us" tvg-type="live",PGA TOUR: Main Feed
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0001.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0093.us.png" tvg-id="espn.0093.us" tvg-type="live",Soccer: Akron vs. So Indiana
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0093.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0086.us.png" tvg-id="espn.0086.us" tvg-type="live",Soccer: Chattanooga vs. Belmont
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0086.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0091.us.png" tvg-id="espn.0091.us" tvg-type="live",Soccer: Davidson vs. SC Upstate
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0091.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0090.us.png" tvg-id="espn.0090.us" tvg-type="live",Soccer: ETSU vs. Queens
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0090.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0063.us.png" tvg-id="espn.0063.us" tvg-type="live",Soccer: Fairmont St vs. UMBC
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0063.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0089.us.png" tvg-id="espn.0089.us" tvg-type="live",Soccer: Kent State vs. Youngstown St
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0089.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0092.us.png" tvg-id="espn.0092.us" tvg-type="live",Soccer: Northeastern vs. Holy Cross
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0092.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0088.us.png" tvg-id="espn.0088.us" tvg-type="live",Soccer: Rider vs. James Madison
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0088.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0082.us.png" tvg-id="espn.0082.us" tvg-type="live",Soccer: Saint Louis vs. Missouri
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0082.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0087.us.png" tvg-id="espn.0087.us" tvg-type="live",Soccer: So Indiana vs. Milwaukee
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0087.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0084.us.png" tvg-id="espn.0084.us" tvg-type="live",Soccer: South Carolina vs. North Florida
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0084.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0085.us.png" tvg-id="espn.0085.us" tvg-type="live",Soccer: Stony Brook vs. Harvard
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0085.us.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/stan.003.au.png" tvg-id="stan.003.au" tvg-type="live",STAN | Cincinnati: Day 8: Session 2  WTA 1000
+https://starlite.best/api/stream/sps007/451296/livetv.epg/stan.003.au.m3u8
+#EXTINF:-1 group-title="Mainstream Sports Networks (Events)" tvg-logo="https://media.starlite.best/espn.0058.us.png" tvg-id="espn.0058.us" tvg-type="live",The Biggest Game: The Biggest Game
+https://starlite.best/api/stream/sps007/451296/livetv.epg/espn.0058.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flsp.0013.us.png" tvg-id="flsp.0013.us" tvg-type="live",FLSP | flofc: 2026 Davidson vs Charleston _ Men`s (Davidson vs Charleston)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flsp.0013.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flsp.0017.us.png" tvg-id="flsp.0017.us" tvg-type="live",FLSP | flofc: 2026 Longwood vs William & Mary _ Men`s (Longwood vs William & Mary)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flsp.0017.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flsp.0016.us.png" tvg-id="flsp.0016.us" tvg-type="live",FLSP | flofc: 2026 Old Dominion vs UNC Wilmington _ Women`s (Old Dominion vs UNCW)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flsp.0016.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flsp.0022.us.png" tvg-id="flsp.0022.us" tvg-type="live",FLSP | flofc: 2026 VMI vs Elon _ Men`s (VMI vs Elon)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flsp.0022.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flsp.0019.us.png" tvg-id="flsp.0019.us" tvg-type="live",FLSP | flohockey: 2026 Welland Jr. Canadians vs St. Catharines Falcons (Welland vs St. Catharines)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flsp.0019.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flsp.0023.us.png" tvg-id="flsp.0023.us" tvg-type="live",FLSP | flolive: 2026 Antigua And Barbuda Falcons vs St Kitts And Nevis Patriots _ Cricket (Antigua & Barbuda vs St Kitts & Nevis)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flsp.0023.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flsp.0018.us.png" tvg-id="flsp.0018.us" tvg-type="live",FLSP | floracing: 2026 Southern Nationals at Toccoa Raceway (Southern Nationals at Toccoa)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flsp.0018.us.m3u8
+#EXTINF:-1 group-title="Multi-Sport Event Streaming (Events)" tvg-logo="https://media.starlite.best/flo.racing.us.png" tvg-id="flo.racing.us" tvg-type="live",UK (MAX 047) |  (2098-12-31 13:00:03)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/flo.racing.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/disney.010.uk.png" tvg-id="disney.010.uk" tvg-type="live",MAX | MLB: New York Yankees @ Baltimore Orioles
+https://starlite.best/api/stream/sps007/451296/livetv.epg/disney.010.uk.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/disney.011.uk.png" tvg-id="disney.011.uk" tvg-type="live",MAX | T20 | Caribbean Premier League: Antigua and Barbuda Falcons _ St. Kitts and Nevis Patriots
+https://starlite.best/api/stream/sps007/451296/livetv.epg/disney.011.uk.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/tsn.002.us.png" tvg-id="tsn.002.us" tvg-type="live",PGA TOUR Live: Featured Groups (Feat. Scott & Kim)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn.002.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/tsn.001.us.png" tvg-id="tsn.001.us" tvg-type="live",PGA TOUR Live: Main Feed + McIlroy/Schauffele (3pm)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn.001.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/tsn.003.us.png" tvg-id="tsn.003.us" tvg-type="live",PGA TOUR Live: Marquee Group (Feat. Morikawa & Scheffler)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tsn.003.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.008.us.png" tvg-id="btn.008.us" tvg-type="live",Soccer (M): Albany at Michigan State
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.008.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.003.us.png" tvg-id="btn.003.us" tvg-type="live",Soccer (M): Loyola Marymount at Michigan
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.003.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.007.us.png" tvg-id="btn.007.us" tvg-type="live",Soccer (M): Mercyhurst at Penn State
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.007.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.011.us.png" tvg-id="btn.011.us" tvg-type="live",Soccer (M): Notre Dame at #22 Indiana
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.011.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.009.us.png" tvg-id="btn.009.us" tvg-type="live",Soccer (M): St. Mary`s College (CA) at Wisconsin
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.009.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.010.us.png" tvg-id="btn.010.us" tvg-type="live",Soccer (M): Virginia Tech at Ohio State
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.010.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.006.us.png" tvg-id="btn.006.us" tvg-type="live",Soccer (W): Chicago St. at Purdue
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.006.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.004.us.png" tvg-id="btn.004.us" tvg-type="live",Soccer (W): Cincinnati at Illinois
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.004.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.005.us.png" tvg-id="btn.005.us" tvg-type="live",Soccer (W): FDU at Maryland
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.005.us.m3u8
+#EXTINF:-1 group-title="Regional & Local Sports Networks (Events)" tvg-logo="https://media.starlite.best/btn.012.us.png" tvg-id="btn.012.us" tvg-type="live",Soccer (W): Syracuse at Northwestern
+https://starlite.best/api/stream/sps007/451296/livetv.epg/btn.012.us.m3u8
+#EXTINF:-1 group-title="Major League Sports (Events)" tvg-logo="https://media.starlite.best/mlb.008.us.png" tvg-id="mlb.008.us" tvg-type="live",MLB | New York Yankees @ Baltimore Orioles
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mlb.008.us.m3u8
+#EXTINF:-1 group-title="Major League Sports (Events)" tvg-logo="https://media.starlite.best/nba.005.us.png" tvg-id="nba.005.us" tvg-type="live",NBA Summer League Nets vs. Rockets jul 16 :NBA 02
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nba.005.us.m3u8
+#EXTINF:-1 group-title="Major League Sports (Events)" tvg-logo="https://media.starlite.best/nba.009.us.png" tvg-id="nba.009.us" tvg-type="live",NBA Summer League Raptors vs. Heat jul 17 :NBA 05
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nba.009.us.m3u8
+#EXTINF:-1 group-title="Major League Sports (Events)" tvg-logo="https://media.starlite.best/nba.007.us.png" tvg-id="nba.007.us" tvg-type="live",NBA Summer League Warriors vs. Knicks jul 16 :NBA 04
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nba.007.us.m3u8
+#EXTINF:-1 group-title="Combat Sports & PPV (Events)" tvg-logo="https://media.starlite.best/ufc.int.001.us.png" tvg-id="ufc.int.001.us" tvg-type="live",Fight Pass 24/7
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ufc.int.001.us.m3u8
+#EXTINF:-1 group-title="Combat Sports & PPV (Events)" tvg-logo="https://media.starlite.best/ufc.001.us.png" tvg-id="ufc.001.us" tvg-type="live",UFC | Fight Pass 24/7
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ufc.001.us.m3u8
+#EXTINF:-1 group-title="Latin & Spanish-Language (Events)" tvg-logo="https://media.starlite.best/fanatiz.005.es.png" tvg-id="fanatiz.005.es" tvg-type="live",Fanatiz | Deportivo Independiente Medellín Femenino vs América de Cali
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fanatiz.005.es.m3u8
+#EXTINF:-1 group-title="Latin & Spanish-Language (Events)" tvg-logo="https://media.starlite.best/fanatiz.007.es.png" tvg-id="fanatiz.007.es" tvg-type="live",Fanatiz | LDU Quito vs Mirassol
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fanatiz.007.es.m3u8
+#EXTINF:-1 group-title="Latin & Spanish-Language (Events)" tvg-logo="https://media.starlite.best/fanatiz.008.es.png" tvg-id="fanatiz.008.es" tvg-type="live",Fanatiz | Macará vs Santos
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fanatiz.008.es.m3u8
+#EXTINF:-1 group-title="Latin & Spanish-Language (Events)" tvg-logo="https://media.starlite.best/fanatiz.009.es.png" tvg-id="fanatiz.009.es" tvg-type="live",Fanatiz | Olimpia vs Vasco da Gama
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fanatiz.009.es.m3u8
+#EXTINF:-1 group-title="Latin & Spanish-Language (Events)" tvg-logo="https://media.starlite.best/fanatiz.010.es.png" tvg-id="fanatiz.010.es" tvg-type="live",Fanatiz | Real Cartagena vs Bogotá Fútbol Club
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fanatiz.010.es.m3u8
+#EXTINF:-1 group-title="Latin & Spanish-Language (Events)" tvg-logo="https://media.starlite.best/fanatiz.006.es.png" tvg-id="fanatiz.006.es" tvg-type="live",Fanatiz | Real Santander vs Barranquilla F. C.
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fanatiz.006.es.m3u8
+#EXTINF:-1 group-title="Tennis & Racquet Sports (Events)" tvg-logo="https://media.starlite.best/tennis.ch.016.us.png" tvg-id="tennis.ch.016.us" tvg-type="live",ATP Challengers: Bergs_ Zizou _ Pellegrino_ Andrea
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tennis.ch.016.us.m3u8
+#EXTINF:-1 group-title="Tennis & Racquet Sports (Events)" tvg-logo="https://media.starlite.best/tennis.ch.015.us.png" tvg-id="tennis.ch.015.us" tvg-type="live",ATP Challengers: Safiullin_ Roman _ Wawrinka_ Stan
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tennis.ch.015.us.m3u8
+#EXTINF:-1 group-title="Tennis & Racquet Sports (Events)" tvg-logo="https://media.starlite.best/tennis.ch.017.us.png" tvg-id="tennis.ch.017.us" tvg-type="live",ATP/WTA Cincinnati: Swiatek_ Iga _ Rybakina_ Elena
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tennis.ch.017.us.m3u8
+#EXTINF:-1 group-title="Tennis & Racquet Sports (Events)" tvg-logo="https://media.starlite.best/tennistv.004.us.png" tvg-id="tennistv.004.us" tvg-type="live",Harri Heliovaara - Henry Patten vs Hugo Nys - Edouard Roger-Vasselin (2026-08-20 11:00:00)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tennistv.004.us.m3u8
+#EXTINF:-1 group-title="Tennis & Racquet Sports (Events)" tvg-logo="https://media.starlite.best/tennistv.001.us.png" tvg-id="tennistv.001.us" tvg-type="live",Tennis TV 24/7 (2024-11-18 06:00:00)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tennistv.001.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png" tvg-id="actionmax.eastern.us" tvg-type="live",ActionMax (East)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JmTIRLF.png" tvg-id="bravo.usa.eastern.us" tvg-type="live",Bravo (East)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bravo.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/cZWoJWD.png" tvg-id="cinemax.eastern.us" tvg-type="live",Cinemax (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="e.entertainment.usa.eastern.us" tvg-type="live",E! Entertainment (Eest)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/e.entertainment.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="ee.uk" tvg-type="live",E! UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ee.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://media.starlite.best/fx.networks.ca.png" tvg-id="fx.networks.ca" tvg-type="live",FX CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fx.networks.ca.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://media.starlite.best/fx.networks.ca.png" tvg-id="fx.networks.east.coast.us" tvg-type="live",FX Networks (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/fx.networks.east.coast.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" tvg-id="hallmark.channel.eastern.us" tvg-type="live",Hallmark Channel (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hallmark.channel.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" tvg-id="hbo.eastern.us" tvg-type="live",HBO (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2e3muOJ.png" tvg-id="hbo.2.eastern.us" tvg-type="live",HBO 2 (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/960px-HBO_Comedy_%282014%29.svg.png" tvg-id="hbo.comedy.east.us" tvg-type="live",HBO Comedy (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/960px-HBO_Signature_%282014%29.svg.png" tvg-id="hbo.signature.hbo.3.eastern.us" tvg-type="live",HBO Signature (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/960px-HBO_Zone_%282014%29.svg.png" tvg-id="hbo.zone.east.us" tvg-type="live",HBO Zone (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-id="hgtv.usa.eastern.us" tvg-type="live",HGTV (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hgtv.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://media.starlite.best/hgtv.usa.pacific.us.png" tvg-id="hgtv.usa.pacific.us" tvg-type="live",HGTV (West) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/hgtv.usa.pacific.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://media.starlite.best/ifc.us.png" tvg-id="ifc.us" tvg-type="live",IFC
+https://starlite.best/api/stream/sps007/451296/livetv.epg/ifc.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png" tvg-id="mgm.usa.us" tvg-type="live",MGM US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mgm.usa.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png" tvg-id="moremax.eastern.us" tvg-type="live",MoreMax (East)
+https://starlite.best/api/stream/sps007/451296/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/960px-MovieMax_Logo.svg.png" tvg-id="moviemax.us" tvg-type="live",MovieMax
+https://starlite.best/api/stream/sps007/451296/livetv.epg/moviemax.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png" tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-type="live",OWN (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/oprah.winfrey.network.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-id="paramount.network.usa.eastern.us" tvg-type="live",Paramount Network (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/paramount.network.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eaYnGpH.png" tvg-id="revolt.tv.us" tvg-type="live",Revolt
+https://starlite.best/api/stream/sps007/451296/livetv.epg/revolt.tv.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://media.starlite.best/showcase.canada.ca.png" tvg-id="showcase.canada.ca" tvg-type="live",Showcase CA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showcase.canada.ca.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" tvg-id="showtime.eastern.us" tvg-type="live",Showtime (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/960px-Showtime_2.svg.png" tvg-id="showtime.2.eastern.us" tvg-type="live",Showtime 2 (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/byJNJdm.png" tvg-id="showtime.extreme.eastern.us" tvg-type="live",Showtime Extreme (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" tvg-id="showtime.family.zone.eastern.us" tvg-type="live",Showtime Family Zone (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showtime.family.zone.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/1Ak2MX2.png" tvg-id="showtime.next.eastern.us" tvg-type="live",Showtime Next US (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bty4UCb.png" tvg-id="showtime.showcase.eastern.us" tvg-type="live",Showtime Showcase (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/960px-Showtime_Women.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20160601095824" tvg-id="showtime.women.eastern.us" tvg-type="live",Showtime Woman US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/showtime.women.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wZbJDTSq/IMG-2514.webp" tvg-id="shoxbet.eastern.us" tvg-type="live",SHOXBET (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/shoxbet.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1412.png" tvg-id="sky.atlantic.uk" tvg-type="live",Sky Atlantic UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.atlantic.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2JjZG7g.png" tvg-id="sky.cinema.action.uk" tvg-type="live",Sky Cinema Action
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.action.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Gd9DuRH.png" tvg-id="sky.cinema.comedy.uk" tvg-type="live",Sky Cinema Comedy
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.comedy.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bCVpVKE.png" tvg-id="sky.cinema.drama.uk" tvg-type="live",Sky Cinema Drama
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.drama.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/vKZSotN.png" tvg-id="sky.cinema.family.uk" tvg-type="live",Sky Cinema Family
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.family.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ssalgh1.png" tvg-id="sky.cinema.greats.uk" tvg-type="live",Sky Cinema Greats UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.greats.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://media.starlite.best/sky.cinema.premiere.uk.png" tvg-id="sky.cinema.premiere.uk" tvg-type="live",Sky Cinema Premiere
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.premiere.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Plz70jD.png" tvg-id="sky.cinema.sci.fihorror.uk" tvg-type="live",Sky Cinema Sci-fi Horror
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4Z1oKde.png" tvg-id="sky.cinema.thriller.uk" tvg-type="live",Sky Cinema Thriller
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.thriller.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/N7oSm4d.png" tvg-id="starz.eastern.us" tvg-type="live",Starz (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ghzzKoT.png" tvg-id="starz.cinema.eastern.us" tvg-type="live",Starz Cinema (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.cinema.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JpKvjZe.png" tvg-id="starz.comedy.eastern.us" tvg-type="live",Starz Comedy (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.comedy.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/MvH3Cz2.png" tvg-id="starz.edge.eastern.us" tvg-type="live",Starz Edge (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.edge.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/5ieoKO1.png" tvg-id="starz.encore.eastern.us" tvg-type="live",Starz Encore (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/wIf4X0i.png" tvg-id="starz.encore.action.eastern.us" tvg-type="live",Starz Encore Action (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.action.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/nkQgShJ.png" tvg-id="starz.encore.black.eastern.us" tvg-type="live",Starz Encore Black (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.black.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L6GjoS4.png" tvg-id="starz.encore.classic.eastern.us" tvg-type="live",Starz Encore Classic (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.classic.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/B9Yfzdp.png" tvg-id="starz.encore.family.eastern.us" tvg-type="live",Starz Encore Family (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.family.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/BI4Ksr1.png" tvg-id="starz.encore.suspense.pacific.us" tvg-type="live",Starz Encore Suspense (West) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.suspense.pacific.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/g51a2le.png" tvg-id="starz.in.black.eastern.us" tvg-type="live",Starz In Black (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.in.black.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eE9FzEP.png" tvg-id="starz.kids.family.eastern.us" tvg-type="live",Starz Kids Family (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.kids.family.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/BI4Ksr1.png" tvg-id="starz.encore.suspense.eastern.us" tvg-type="live",Starz Suspense (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.suspense.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Eo6yLpN.png" tvg-id="starz.encore.westerns.eastern.us" tvg-type="live",Starz Westerns US (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/starz.encore.westerns.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4fMWhUE.png" tvg-id="syfy.eastern.us" tvg-type="live",Syfy (East) US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4fMWhUE.png" tvg-id="syfy.uk" tvg-type="live",SYFY UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/syfy.uk.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" tvg-id="trutv.usa.east.us" tvg-type="live",TruTV East US
+https://starlite.best/api/stream/sps007/451296/livetv.epg/trutv.usa.east.us.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/4seven.uk.png" tvg-id="4seven.uk" tvg-type="live",4seven
+https://starlite.best/api/stream/sps007/451296/livetv.epg/4seven.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/5.usa.uk.png" tvg-id="5.usa.uk" tvg-type="live",5 USA
+https://starlite.best/api/stream/sps007/451296/livetv.epg/5.usa.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/5select.uk.png" tvg-id="5select.uk" tvg-type="live",5SELECT
+https://starlite.best/api/stream/sps007/451296/livetv.epg/5select.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/5star.uk.png" tvg-id="5star.uk" tvg-type="live",5STAR
+https://starlite.best/api/stream/sps007/451296/livetv.epg/5star.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/alibi.uk.png" tvg-id="alibi.uk" tvg-type="live",alibi
+https://starlite.best/api/stream/sps007/451296/livetv.epg/alibi.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/bbc.one.uk.png" tvg-id="bbc.one.uk" tvg-type="live",BBC 1
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bbc.one.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/bbc.two.uk.png" tvg-id="bbc.two.uk" tvg-type="live",BBC 2
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bbc.two.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/bbc.four.uk.png" tvg-id="bbc.four.uk" tvg-type="live",BBC 4
+https://starlite.best/api/stream/sps007/451296/livetv.epg/bbc.four.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/blaze.uk.png" tvg-id="blaze.uk" tvg-type="live",Blaze UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/blaze.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/cartoon.network.uk.png" tvg-id="cartoon.network.uk" tvg-type="live",Cartoon Network UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/cartoon.network.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/cbs.action.uk.png" tvg-id="cbs.action.uk" tvg-type="live",CBS Action
+https://starlite.best/api/stream/sps007/451296/livetv.epg/cbs.action.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/cbs.drama.uk.png" tvg-id="cbs.drama.uk" tvg-type="live",CBS Drama
+https://starlite.best/api/stream/sps007/451296/livetv.epg/cbs.drama.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/cbs.reality.uk.png" tvg-id="cbs.reality.uk" tvg-type="live",CBS Reality
+https://starlite.best/api/stream/sps007/451296/livetv.epg/cbs.reality.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/challenge.uk.png" tvg-id="challenge.uk" tvg-type="live",Challenge
+https://starlite.best/api/stream/sps007/451296/livetv.epg/challenge.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/channel.4.uk.png" tvg-id="channel.4.uk" tvg-type="live",Channel 4
+https://starlite.best/api/stream/sps007/451296/livetv.epg/channel.4.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/channel.5.uk.png" tvg-id="channel.5.uk" tvg-type="live",Channel 5
+https://starlite.best/api/stream/sps007/451296/livetv.epg/channel.5.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/comedy.central.uk.png" tvg-id="comedy.central.uk" tvg-type="live",Comedy Central UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/comedy.central.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/comedyxtra.uk.png" tvg-id="comedyxtra.uk" tvg-type="live",ComedyXtra
+https://starlite.best/api/stream/sps007/451296/livetv.epg/comedyxtra.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/crime.investigation.uk.png" tvg-id="crime.investigation.uk" tvg-type="live",Crime Investigation
+https://starlite.best/api/stream/sps007/451296/livetv.epg/crime.investigation.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/dave.uk.png" tvg-id="dave.uk" tvg-type="live",Dave
+https://starlite.best/api/stream/sps007/451296/livetv.epg/dave.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/dmax.uk.png" tvg-id="dmax.uk" tvg-type="live",DMAX
+https://starlite.best/api/stream/sps007/451296/livetv.epg/dmax.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/drama.uk.png" tvg-id="drama.uk" tvg-type="live",Drama UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/drama.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/e4.uk.png" tvg-id="e4.uk" tvg-type="live",E4
+https://starlite.best/api/stream/sps007/451296/livetv.epg/e4.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/film4.uk.png" tvg-id="film4.uk" tvg-type="live",Film4
+https://starlite.best/api/stream/sps007/451296/livetv.epg/film4.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/gold.uk.png" tvg-id="gold.uk" tvg-type="live",GOLD
+https://starlite.best/api/stream/sps007/451296/livetv.epg/gold.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/great.action.uk.png" tvg-id="great.action.uk" tvg-type="live",GREAT! action
+https://starlite.best/api/stream/sps007/451296/livetv.epg/great.action.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/great.movies.uk.png" tvg-id="great.movies.uk" tvg-type="live",GREAT! movies
+https://starlite.best/api/stream/sps007/451296/livetv.epg/great.movies.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/great.tv.uk.png" tvg-id="great.tv.uk" tvg-type="live",GREAT! tv
+https://starlite.best/api/stream/sps007/451296/livetv.epg/great.tv.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/itv.1.uk.png" tvg-id="itv.1.uk" tvg-type="live",ITV
+https://starlite.best/api/stream/sps007/451296/livetv.epg/itv.1.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/itv.2.uk.png" tvg-id="itv.2.uk" tvg-type="live",ITV 2
+https://starlite.best/api/stream/sps007/451296/livetv.epg/itv.2.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/itv.3.uk.png" tvg-id="itv.3.uk" tvg-type="live",ITV 3
+https://starlite.best/api/stream/sps007/451296/livetv.epg/itv.3.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/itv.4.uk.png" tvg-id="itv.4.uk" tvg-type="live",ITV 4
+https://starlite.best/api/stream/sps007/451296/livetv.epg/itv.4.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/more4.uk.png" tvg-id="more4.uk" tvg-type="live",More 4
+https://starlite.best/api/stream/sps007/451296/livetv.epg/more4.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/mtv.uk.png" tvg-id="mtv.uk" tvg-type="live",MTV
+https://starlite.best/api/stream/sps007/451296/livetv.epg/mtv.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/now.70s.uk.png" tvg-id="now.70s.uk" tvg-type="live",Now 70s
+https://starlite.best/api/stream/sps007/451296/livetv.epg/now.70s.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/pbs.america.uk.png" tvg-id="pbs.america.uk" tvg-type="live",PBS America UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/pbs.america.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/quest.uk.png" tvg-id="quest.uk" tvg-type="live",QUEST
+https://starlite.best/api/stream/sps007/451296/livetv.epg/quest.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/quest.red.uk.png" tvg-id="quest.red.uk" tvg-type="live",Quest Red
+https://starlite.best/api/stream/sps007/451296/livetv.epg/quest.red.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/really.uk.png" tvg-id="really.uk" tvg-type="live",Really
+https://starlite.best/api/stream/sps007/451296/livetv.epg/really.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/sky.arts.uk.png" tvg-id="sky.arts.uk" tvg-type="live",Sky Arts UK
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.arts.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/sky.cinema.select.uk.png" tvg-id="sky.cinema.select.uk" tvg-type="live",Sky Cinema Select
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.cinema.select.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/sky.comedy.uk.png" tvg-id="sky.comedy.uk" tvg-type="live",Sky Comedy
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.comedy.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/sky.crime.uk.png" tvg-id="sky.crime.uk" tvg-type="live",Sky Crime
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.crime.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/sky.nature.uk.png" tvg-id="sky.nature.uk" tvg-type="live",Sky Nature
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.nature.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/sky.witness.uk.png" tvg-id="sky.witness.uk" tvg-type="live",Sky Witness
+https://starlite.best/api/stream/sps007/451296/livetv.epg/sky.witness.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/tlc.uk.png" tvg-id="tlc.uk" tvg-type="live",TLC
+https://starlite.best/api/stream/sps007/451296/livetv.epg/tlc.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/virgin.media.one.uk.png" tvg-id="virgin.media.one.uk" tvg-type="live",Virgin Media One
+https://starlite.best/api/stream/sps007/451296/livetv.epg/virgin.media.one.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/virgin.media.three.uk.png" tvg-id="virgin.media.three.uk" tvg-type="live",Virgin Media Three
+https://starlite.best/api/stream/sps007/451296/livetv.epg/virgin.media.three.uk.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://media.starlite.best/virgin.media.two.uk.png" tvg-id="virgin.media.two.uk" tvg-type="live",Virgin Media Two
+https://starlite.best/api/stream/sps007/451296/livetv.epg/virgin.media.two.uk.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png" tvg-id="vic.melbourne.7flix.vic.au" tvg-type="live",7Flix Melbourne
+https://starlite.best/api/stream/sps007/451296/livetv.epg/vic.melbourne.7flix.vic.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png" tvg-id="vic.melbourne.7mate.melbourne.au" tvg-type="live",7mate Melbourne
+https://starlite.best/api/stream/sps007/451296/livetv.epg/vic.melbourne.7mate.melbourne.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png" tvg-id="nsw.sydney.7two.sydney.au" tvg-type="live",7TWO Sydney
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.7two.sydney.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-id="wa.perth.abc.au" tvg-type="live",ABC Perth
+https://starlite.best/api/stream/sps007/451296/livetv.epg/wa.perth.abc.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i.imgur.com/BPMovOc.png" tvg-id="nsw.sydney.fox.sports.more.au" tvg-type="live",Fox Sports MORE
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.fox.sports.more.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i.imgur.com/FhMQrJk.png" tvg-id="nsw.sydney.fox.sports.news.au" tvg-type="live",Fox Sports News AU
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.fox.sports.news.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i.imgur.com/9A8BwQA.png" tvg-id="nsw.sydney.sbs.food.nsw.au" tvg-type="live",SBS Food
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.sbs.food.nsw.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i.imgur.com/PZL1yHm.png" tvg-id="nsw.sydney.sbs.au" tvg-type="live",SBS Sydney
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.sbs.au.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i.imgur.com/ZsPb8nL.png" tvg-id="nsw.sydney.sky.news.au" tvg-type="live",Sky News AU
+https://starlite.best/api/stream/sps007/451296/livetv.epg/nsw.sydney.sky.news.au.m3u8
