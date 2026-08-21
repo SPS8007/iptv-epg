@@ -1,0 +1,46 @@
+name: Update IPTV EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Twice daily. GitHub schedules are UTC unless a timezone is specified.
+    - cron: "17 6,18 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-iptv-epg
+  cancel-in-progress: true
+
+jobs:
+  build-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Build filtered XMLTV
+        run: python3 scripts/build_epg.py
+
+      - name: Check generated file
+        run: |
+          test -s iptv_epg_all_six_filtered.xml
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          ET.parse("iptv_epg_all_six_filtered.xml")
+          print("XMLTV validation: OK")
+          PY
+
+      - name: Commit updated EPG
+        run: |
+          git config user.name "SPS8007 EPG Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add iptv_epg_all_six_filtered.xml
+          if git diff --cached --quiet; then
+            echo "No EPG changes to commit."
+          else
+            git commit -m "Update IPTV EPG"
+            git push
+          fi
